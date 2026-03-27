@@ -1,0 +1,14 @@
+{
+  "name": "market-discovery-engine",
+  "version": "0.1.0",
+  "description": "Search engine for finding niche prediction markets across the web",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "dev": "ts-node src/index.ts"
+  },
+  "license": "MIT",
+  "keywords": []
+}
